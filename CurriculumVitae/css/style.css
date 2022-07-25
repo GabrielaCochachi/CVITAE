@@ -2,7 +2,7 @@ section {
     display: flex;
 }
 .primera {
-    background-color: rgb(148, 142, 142);
+    background-color: rgb(105, 116, 121);
     width: 300px;
     height: 1150px;
 }
@@ -39,7 +39,7 @@ hr {
 
 /* aca empieza la otra mitad */
 .segundo {
-    background-color:rgb(236, 231, 231);
+    background-color:rgb(170, 170, 172);
     padding: 1px;
     margin: 25px;
     transform: translate(-25px, -25px);
@@ -47,7 +47,7 @@ hr {
     height: 1150px;
 }
 .titulo {
-    background-color: rgb(167, 178, 182);
+    background-color: rgb(99, 105, 107);
     transform: translate(50px, 60px);
     width: 500px;
     font-size: 30px;
